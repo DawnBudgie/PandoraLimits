@@ -1,5 +1,5 @@
 name: PandoraLimits
-main: me.DawnBudgie.PandoraLimits.PandoraLimits
+main: me.DawnBudgie.pandoralimits.PandoraLimits
 version: 1.0
 description: This plugin provides basic limiting to worldedit on a per-group basis, as determined by PEX.
 author: Sloan
