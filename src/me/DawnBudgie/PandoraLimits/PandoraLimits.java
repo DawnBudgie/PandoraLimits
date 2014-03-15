@@ -39,7 +39,9 @@ public class PandoraLimits extends JavaPlugin
       this.config.set("Groups.adept", Integer.valueOf(20000));
       this.config.set("Groups.artisan", Integer.valueOf(75000));
       this.config.set("Groups.helper", Integer.valueOf(75000));
-      this.config.set("Groups.Legend", Integer.valueOf(300000));
+      this.config.set("Groups.architect", Integer.valueOf(300000));
+      this.config.set("Groups.buildteam", Integer.valueOf(500000));
+      this.config.set("Groups.legend", Integer.valueOf(1000000));
       ArrayList<String> ignored = new ArrayList<String>();
       ignored.add("guest");
       this.config.set("Ignore", ignored);
